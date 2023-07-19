@@ -3,7 +3,7 @@ Simulation code use in manuscript "Accelerated Drift in Age Structured Populatio
 Running the files Figure1A.m, Figure1B.m, Figure1C and Figure2.m generates Figures 1A, 1B, 1C and 2, respectively.
 
 The .mat files matlab2A.mat, matlab3A.mat and matlab4A.mat are a particular result of running 
-the three simulation files in the folder Simulations_Of_Data.
+the three simulation files SimulationNoAccelerationChimp.m; SimulationNoAccelerationHadza.m and SimulationNoAccelerationUSfemales.m.
 
 Running the file GeneratesFigure3.m produces Figure 3.
 
