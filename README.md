@@ -7,5 +7,5 @@ the three simulation files SimulationNoAccelerationChimp.m; SimulationNoAccelera
 
 Running the file GeneratesFigure3.m produces Figure 3.
 
-Running the files GeneratesFigure4A.m, GeneratesFigure4B.m and GeneratesFigure4C.m
+Running the files PlotFile4A.m, PlotFile4B.m and PlotFile4C.m
 produces Figures 4A, 4B and 4C, respectively.
